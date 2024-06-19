@@ -72,6 +72,7 @@ The usefulness of this page depends on testers sharing information and updates.
 | adstir | SSP | 2024 Q1 - | | privacysandbox@united.jp  |
 | Bypass | DSP | 2024 Q1 - | | privacysandbox@united.jp  |
 | Ogury | SSP & DSP | Testing ongoing | | privacy-sandbox@ogury.co |
+| Taboola | SSP & DSP | Testing in progress | | privacy-sandbox@taboola.com |
 
 
 ## Table - Publishers and Advertisers Interested in Testing or Early Adoption
